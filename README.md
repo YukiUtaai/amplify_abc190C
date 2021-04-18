@@ -70,4 +70,4 @@ equal_toがうまく機能しなかった（コメントアウトしています
 
 ## 使用した問題
 
-https://atcoder.jp/contests/abc193/tasks/abc190_c
+https://atcoder.jp/contests/abc190/tasks/abc190_c
